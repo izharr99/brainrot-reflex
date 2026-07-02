@@ -1,4 +1,4 @@
-package com.izharr99.brainrotreflex.ui.theme
+package com.brainrot.reflex.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

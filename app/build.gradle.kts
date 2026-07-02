@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.izharr99.brainrotreflex"
+    namespace = "com.brainrot.reflex"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
@@ -12,9 +12,9 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.izharr99.brainrotreflex"
-        minSdk = 24
-        targetSdk = 36
+        applicationId = "com.brainrot.reflex"
+        minSdk = 26
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 

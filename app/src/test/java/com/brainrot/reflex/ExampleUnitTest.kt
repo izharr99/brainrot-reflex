@@ -1,4 +1,4 @@
-package com.izharr99.brainrotreflex
+package com.brainrot.reflex
 
 import org.junit.Test
 import org.junit.Assert.assertEquals

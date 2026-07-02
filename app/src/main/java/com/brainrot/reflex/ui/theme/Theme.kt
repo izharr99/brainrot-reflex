@@ -1,4 +1,4 @@
-package com.izharr99.brainrotreflex.ui.theme
+package com.brainrot.reflex.ui.theme
 
 import android.app.Activity
 import android.os.Build

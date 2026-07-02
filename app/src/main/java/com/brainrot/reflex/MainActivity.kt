@@ -1,4 +1,4 @@
-package com.izharr99.brainrotreflex
+package com.brainrot.reflex
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,7 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.izharr99.brainrotreflex.ui.theme.BrainrotReflexTheme
+import com.brainrot.reflex.ui.theme.BrainrotReflexTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

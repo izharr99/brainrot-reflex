@@ -1,4 +1,4 @@
-package com.izharr99.brainrotreflex
+package com.brainrot.reflex
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -11,6 +11,6 @@ class ExampleInstrumentedTest {
     @Test
     fun useAppContext() {
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.izharr99.brainrotreflex", appContext.packageName)
+        assertEquals("com.brainrot.reflex", appContext.packageName)
     }
 }
