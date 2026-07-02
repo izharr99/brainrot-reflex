@@ -2,10 +2,10 @@ package com.brainrot.reflex.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
+val NeonGreen = Color(0xFF00FF88)
+val NeonPink = Color(0xFFFF006E)
+val NeonYellow = Color(0xFFFFBE0B)
+val NeonBlue = Color(0xFF3A86FF)
 
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+val BrainrotBlack = Color(0xFF000000)
+val BrainrotSurface = Color(0xFF121212)
